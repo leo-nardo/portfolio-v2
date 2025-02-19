@@ -1,0 +1,26 @@
+.navbar {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(37, 37, 37);
+}
+
+.logo-container {
+  padding: 20px;
+}
+
+.links {
+  display: flex;
+  padding: 20px;
+  color: rgb(f5, f5, f5);
+}
+
+.item-link {
+  text-decoration-color: rgb(f5, f5, f5);
+}
+
+.link {
+  color: white;
+}
