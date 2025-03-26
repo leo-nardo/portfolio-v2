@@ -35,15 +35,15 @@ const HeroImage = () => {
         <Image
           src="/leonardo_2.svg"
           alt="Globe icon"
-          width={500}
-          height={500}
+          width={300}
+          height={300}
         />
       ) : (
         <Image
           src="/leonardo_1.svg"
           alt="Globe icon"
-          width={500}
-          height={500}
+          width={300}
+          height={300}
         />
       )}
     </div>

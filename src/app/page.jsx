@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { Cabecalho } from "@/components/hero/cabecalho";
 import { NavBar } from "@/components/navbar/navbar";
 
